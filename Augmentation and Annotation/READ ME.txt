@@ -1,0 +1,4 @@
+One Pakistan Passport and UK passport image is provided in the "Sample Images" folder. 
+in the "Augmented Images" folder, 5 augmented images for each sample image are provided.  
+The xml files in annotations folder contain the annotations for both sample images. 
+The csv files contain the annotations for all augmented images generated for this project.
